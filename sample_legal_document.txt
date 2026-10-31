@@ -1,0 +1,23 @@
+SERVICE AGREEMENT
+
+This Service Agreement is made on 1 October 2026 between ABC Technologies ("Client") and XYZ Solutions ("Service Provider").
+
+1. PURPOSE
+The Service Provider agrees to provide software development and maintenance services to the Client.
+
+2. OBLIGATIONS
+The Service Provider shall develop the agreed software features and provide monthly progress updates. The Client shall provide project requirements and necessary feedback in a timely manner.
+
+3. PAYMENT
+The Client shall pay the Service Provider INR 50,000 per month. Payment is due within 15 days after receipt of the monthly invoice.
+
+4. DURATION
+This Agreement begins on 1 October 2026 and continues for 12 months unless terminated earlier according to this Agreement.
+
+5. CONFIDENTIALITY
+Both parties shall keep confidential information private and shall not disclose it to third parties without written permission, except where disclosure is required by law.
+
+6. TERMINATION
+Either party may terminate this Agreement by giving 30 days' written notice to the other party.
+
+END
